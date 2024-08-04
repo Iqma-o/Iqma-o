@@ -32,7 +32,7 @@ Curiosity of what technical skills to learn led me to cybersecurity which I deve
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 
 </div>
