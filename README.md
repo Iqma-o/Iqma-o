@@ -12,7 +12,8 @@ Curiosity of what technical skills to learn led me to cybersecurity which I deve
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|
+|Nmap                                           |<a href=https://github.com/Iqma-o/Network-Scanning/blob/main/README.md href>Network Scanning</a>|
+
 ## Tools
 
 
@@ -38,3 +39,4 @@ Curiosity of what technical skills to learn led me to cybersecurity which I deve
 </div>
 
 ## Projects
+<a href=https://github.com/Iqma-o/Network-Scanning/blob/main/README.md href>Network Scanning</a>
